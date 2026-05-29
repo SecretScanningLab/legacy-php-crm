@@ -1,0 +1,5 @@
+$db = new PDO(
+  "mysql:host=prod-db.internal;dbname=crm",
+  "crm_admin",
+  "Summer2025!"
+);
