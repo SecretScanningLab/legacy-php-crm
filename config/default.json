@@ -1,0 +1,4 @@
+{
+  "redis": "redis://cache_admin:RedisProdPass@10.0.4.12:6379",
+  "mongo": "mongodb://chat_user:MongoProd2026@mongo.internal:27017/chat"
+}
