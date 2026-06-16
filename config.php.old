@@ -3,3 +3,5 @@ $db = new PDO(
   "crm_admin",
   "Summer2025!"
 );
+
+pasword="kanukolluR@1
